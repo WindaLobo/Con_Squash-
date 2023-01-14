@@ -3,5 +3,9 @@ public class Colaborador {
     String Nombre;
     Boolean Casada;
 
+    public String Casada(){
+        return "No";
+    }
+
 
 }
